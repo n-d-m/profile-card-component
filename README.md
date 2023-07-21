@@ -26,7 +26,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-reponsive-profile-card-component-Jjp5C6xHl1)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-reponsive-profile-card-component-lASRX3o3g8)
 - Live Site URL: [GitHub Pages](https://n-d-m.github.io/profile-card-component/)
 
 ## My process
