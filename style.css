@@ -47,6 +47,7 @@
         }
     
         .container {
+            min-height: 370px;
             background-color: white;
             display: grid;
             grid-template-rows: repeat(4, 1fr);
@@ -119,8 +120,8 @@ body {
         align-items: center;
         min-height: 99vh;
         background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
-        background-repeat: no-repeat;
-        background-position: -5% 700%, 105% -600%;
+        background-repeat: no-repeat, no-repeat;
+        background-position: -50px -450px, 950px 350px;
     }
 
     p {
@@ -144,6 +145,7 @@ body {
     }
 
     .container {
+        min-height: 370px;
         background-color: white;
         display: grid;
         grid-template-rows: repeat(4, 1fr);
